@@ -36,13 +36,13 @@ Create, edit, and delete notes easily — all your notes are automatically saved
 ## 📁 Project Structure
 
 📂 Notes-App
-    ┣ 📜 index.html
-    ┣ 📜 style.css
-    ┣ 📜 script.js
-    ┗ 📂 images
-        ┣ notes.png
-        ┣ edit.png
-        ┗ delete.png
+┣ 📜 index.html
+┣ 📜 style.css
+┣ 📜 script.js
+┗ 📂 images
+┣ notes.png
+┣ edit.png
+┗ delete.png
 
 
 ---
